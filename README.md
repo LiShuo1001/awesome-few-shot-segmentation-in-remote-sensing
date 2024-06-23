@@ -1,5 +1,6 @@
 # awesome-few-shot-segmentation-in-remote-sensing
-A curated list of few-shot segmentation in remote sensing imagery.
+A curated list of few-shot segmentation / few shot semantic segmentation / few shot image segmentation / few shot image semantic segmentation in remote sensing imagery.
+
 
 # Papers 
 

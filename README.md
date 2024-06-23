@@ -18,6 +18,8 @@ A curated list of few-shot segmentation in remote sensing imagery.
 | CVPR Workshop | Enrich Distill and Fuse: Generalized Few-Shot Semantic Segmentation in Remote Sensing Leveraging Foundation Model's Assistance | [Openearthmap](https://sites.google.com/view/l3divu2024/challenges) | [PDF](https://openaccess.thecvf.com/content/CVPR2024W/L3D-IVU/html/Gao_Enrich_Distill_and_Fuse_Generalized_Few-Shot_Semantic_Segmentation_in_Remote_CVPRW_2024_paper.html) | - |
 | CVPR Workshop | Dynamic Knowledge Adapter with Probabilistic Calibration for Generalized Few-Shot Semantic Segmentation | [Openearthmap](https://sites.google.com/view/l3divu2024/challenges) | [PDF](https://openaccess.thecvf.com/content/CVPR2024W/L3D-IVU/html/Tong_Dynamic_Knowledge_Adapter_with_Probabilistic_Calibration_for_Generalized_Few-Shot_Semantic_CVPRW_2024_paper.html) | - |
 | arixv | Embedding Generalized Semantic Knowledge into Few-Shot Remote Sensing Segmentation | [iSAID-5i](https://drive.google.com/file/d/1ZjlsK6Lob_MwEpSFhxo0bgP5HptS-lND/view) | [PDF](https://arxiv.org/abs/2405.13686) | - |
+| - | Multi-Granularity Aggregation Network for Remote Sensing Few-Shot Segmentation | [iSAID-5i](https://pan.baidu.com/s/1NjZxFxLCNcaTCu_uQO8NNA?pwd=2f3y) / [LoveDA](https://pan.baidu.com/s/1NjZxFxLCNcaTCu_uQO8NNA?pwd=2f3y) | [PDF](./) | [CODE](https://github.com/sfengpeng/MGANet) |
+| - | Spectral Super-Resolution Assisted Few-Shot Semantic Segmentation of Remote Sensing Imagery | - | [PDF](./) | [CODE](https://github.com/jjcxyjj/TCSLNet) |
 
 
 ## 2023

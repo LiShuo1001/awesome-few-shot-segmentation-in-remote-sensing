@@ -9,7 +9,7 @@ A curated list of few-shot segmentation / few shot semantic segmentation / few s
 
 | Venue | Title | Dataset | PDF | Code |
 | ----- | ----- | ------- | --- | ---- |
-| TGARS | Mask-Guided Correlation Learning for Few-Shot Segmentation in Remote Sensing Imagery | [iSAID-5i](https://drive.google.com/file/d/1ZjlsK6Lob_MwEpSFhxo0bgP5HptS-lND/view) / [DLRSD-5i](https://drive.google.com/file/d/1ZjlsK6Lob_MwEpSFhxo0bgP5HptS-lND/view) | [PDF](./) | [CODE](https://github.com/LiShuo1001/MGCL) |
+| TGARS | Mask-Guided Correlation Learning for Few-Shot Segmentation in Remote Sensing Imagery | [iSAID-5i](https://drive.google.com/file/d/1ZjlsK6Lob_MwEpSFhxo0bgP5HptS-lND/view) / [DLRSD-5i](https://drive.google.com/file/d/1ZjlsK6Lob_MwEpSFhxo0bgP5HptS-lND/view) | [PDF](https://ieeexplore.ieee.org/document/10568973) | [CODE](https://github.com/LiShuo1001/MGCL) |
 | TGARS | Multiprototype Relational Network for Few-Shot ALS Point Cloud Semantic Segmentation by Transferring Knowledge From Photogrammetric Point Clouds | SensatUrban / ISPRS / DALES | [PDF](https://ieeexplore.ieee.org/document/10430180) | - |
 | JSTARS | Cross-Domain Few-Shot Segmentation for Remote Sensing Image Based on Task Augmentation and Feature Disentanglement | [WHDLD](https://ieeexplore.ieee.org/document/8954885) / [GID5](https://arxiv.org/abs/1807.05713) | [PDF](https://ieeexplore.ieee.org/abstract/document/10506968) | - |
 | JSTARS | A Simple Framework of Few-Shot Learning Using Sparse Annotations for Semantic Segmentation of 3-D Point Clouds | Toronto-3D MLS / ISPRS | [PDF](https://ieeexplore.ieee.org/document/10423773) | - |
